@@ -13,8 +13,8 @@ This project provide a straightforward interface that encourages centered around
 
 ## Academic Project
 - Course: Mobile Learning Application Development Lab
-- Time: 4th Year, 2nd Semester
-
+- Academic Level: 4th Year, 2nd Semester
+- Project Type: Flutter based Android Applications
 
 
 
